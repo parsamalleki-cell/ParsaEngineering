@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "id": "parsa_engineering",
+  "version": "${version}",
+  "name": "Parsa Engineering",
+  "description": "Industrial machines for Minecraft: Generator, Crusher, and Electric Furnace.",
+  "authors": ["Parsa"],
+  "environment": "*",
+  "entrypoints": { "main": ["com.parsa.engineering.ParsaEngineering"] },
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "minecraft": "~${minecraft_version}",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

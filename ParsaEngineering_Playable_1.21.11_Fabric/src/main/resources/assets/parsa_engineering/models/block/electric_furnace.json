@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "parsa_engineering:block/electric_furnace"
+  }
+}

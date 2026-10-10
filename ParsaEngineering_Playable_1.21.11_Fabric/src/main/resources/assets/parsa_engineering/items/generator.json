@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "parsa_engineering:block/generator"
+  }
+}
